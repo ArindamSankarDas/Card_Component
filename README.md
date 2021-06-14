@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://arindamsankardas.github.io/Cheatsheet-Template/)
-- Live Site URL: [Add live site URL here](https://arindamsankardas.github.io/Card_Component/)
+- Solution URL: [solution URL](https://arindamsankardas.github.io/Cheatsheet-Template/)
+- Live Site URL: [live site URL](https://arindamsankardas.github.io/Card_Component/)
 
 ## My process
 
