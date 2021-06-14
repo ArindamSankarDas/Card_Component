@@ -42,6 +42,12 @@ The things which I learnt through this challenge has made me confident towards m
 
 The major learnings which I gained through this challenge is the :
 
+- Importance of CSS Positioning and using it in an advanced manner.
+- Being able to breakdown the challenge into small sections to make it easier to complete the task.
+- Major use of CSS Flexbox and it's importance.
+- Vast use and impact of pseudo elements and pseudo classes in CSS and CSS3.
+For example: ::before, ::after, :nth-child() and so on.
+
 ### Continued development
 
 During the process of completing this project I found some concepts which I still have to practice a lot. And so the lack of skill came forth when I was trying to implement a background-color overlay over the image.
